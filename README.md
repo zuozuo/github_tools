@@ -1,6 +1,8 @@
 # GitHub Repository Cleaner
 
-一个安全可靠的命令行工具，用于批量删除GitHub账户下的公开仓库。
+一个安全可靠的命令行工具库，包含了各种常用的工具，
+1. github_repo_cleaner，用于批量删除GitHub账户下的公开仓库。
+2. WIP
 
 ## 功能特性
 
